@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a93a1549-1f2a-4a74-b9db-ddd1f6270870" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../kolokwium/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kolokwium/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kolokwium/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kolokwium/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kolokwium/kolokwium.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kolokwium/lista-bieglych.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kolokwium/out/production/kolokwium/CSVReader.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kolokwium/out/production/kolokwium/Zad1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kolokwium/out/production/kolokwium/Zad11.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kolokwium/out/production/kolokwium/Zad2$CountIf.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kolokwium/out/production/kolokwium/Zad2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kolokwium/out/production/kolokwium/Zad21$CountIf.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kolokwium/out/production/kolokwium/Zad21.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kolokwium/src/CSVReader.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kolokwium/src/Zad1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kolokwium/src/Zad2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kolokwium/src/zad1finale.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kolokwium/src/zad2finale.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab1/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab1/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab1/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab1/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab1/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab1/new.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab1/out/production/new/Fibo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab1/out/production/new/META-INF/new.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab1/out/production/new/Problem115A.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab1/out/production/new/Problem610A.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab1/out/production/new/lab1/SimpleIO.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab1/src/Fibo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab1/src/Problem115A.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab1/src/Problem610A.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab1/src/lab1/SimpleIO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Matrix.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Matrix.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="JUnit4 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1SkSWHV4JS0eNOhgu1IM9qWiaHY" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../lab4" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.MatrixTest">
+    <configuration name="Matrix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Matrix" />
+      <module name="Matrix" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MatrixTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Matrix" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="MatrixTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Matrix" />
+      <item itemvalue="JUnit.MatrixTest" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.MatrixTest" />
+        <item itemvalue="Application.Matrix" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a93a1549-1f2a-4a74-b9db-ddd1f6270870" name="Default Changelist" comment="" />
+      <created>1572106130735</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1572106130735</updated>
+      <workItem from="1584264967984" duration="90000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="618" y="301" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1584264984125">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="618" y="301" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1536.824@0.0.1536.824" timestamp="1584264984125" />
+  </component>
+</project>
