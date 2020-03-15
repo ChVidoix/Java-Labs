@@ -4,7 +4,7 @@ import java.util.concurrent.BlockingQueue;
 
 public class Mean {
     static double[] array;
-    static BlockingQueue<Double> results = new ArrayBlockingQueue<Double>(100);
+    static BlockingQueue<Double> results = new ArrayBlockingQueue<>(100);
     static void initArray(int size){
         array = new double[size];
         for(int i=0;i<size;i++){
@@ -44,16 +44,21 @@ public class Mean {
      * Wypisuje czasy operacji
      * @param cnt - liczba wątków
      */
+
     static void parallelMean(int cnt) throws InterruptedException {
         MeanCalc[] threads = new MeanCalc[cnt];
         for(int i = 0; i < cnt; ++i){
             threads[i] = new MeanCalc(i*array.length/cnt, (i+1)*(array.length/cnt));
         }
+
         double t1 = System.nanoTime()/1e6;
+
         for (MeanCalc thread : threads) {
             thread.start();
         }
+
         double t2 = System.nanoTime()/1e6;
+
 //        for(MeanCalc thread:threads) {
 //            thread.join();
 //        }
@@ -63,8 +68,11 @@ public class Mean {
 //            sum += thread.mean;
             sum += results.take();
         }
+
         final double mean = sum/cnt;
+
         double t3 = System.nanoTime()/1e6;
+
         System.out.printf(Locale.US,"size = %d cnt=%d >  t2-t1=%f t3-t1=%f mean=%f\n",
                 array.length,
                 cnt,
@@ -74,7 +82,7 @@ public class Mean {
     }
 
     public static void main(String[] args) throws InterruptedException {
-        initArray(1000000);
-        parallelMean(100);
+        initArray(100000000);
+        parallelMean(4);
     }
 }
